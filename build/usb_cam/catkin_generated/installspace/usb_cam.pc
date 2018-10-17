@@ -1,0 +1,8 @@
+prefix=/home/amac/ros_camera_test/install
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.6
+Cflags: -I/home/amac/ros_camera_test/install/include
+Libs: -L/home/amac/ros_camera_test/install/lib -lusb_cam
+Requires: 
