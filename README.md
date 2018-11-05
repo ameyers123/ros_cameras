@@ -2,6 +2,11 @@
 
 type the following commands use: 
 
+sudo rmmod uvcvideo
+
+sudo modprobe uvcvideo quirks=640
+
+
 
 
 roscore
